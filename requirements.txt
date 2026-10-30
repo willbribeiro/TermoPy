@@ -1,0 +1,6 @@
+# Dependências do TermoPy.
+#
+# O núcleo (pressão de saturação, equações de estado, propriedades residuais,
+# coeficiente de fugacidade e cálculo de ELV) usa apenas a biblioteca padrão.
+# matplotlib é necessário somente para gerar os diagramas P-x1-y1 (item 5).
+matplotlib>=3.5
