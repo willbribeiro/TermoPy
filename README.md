@@ -1,5 +1,7 @@
 # TermoPy
 
+[![testes](https://github.com/willbribeiro/TermoPy/actions/workflows/testes.yml/badge.svg)](https://github.com/willbribeiro/TermoPy/actions/workflows/testes.yml)
+
 Programa de termodinâmica em Python: pressão de saturação, equações de estado,
 propriedades residuais em equipamentos, coeficiente de fugacidade e equilíbrio
 líquido-vapor.
